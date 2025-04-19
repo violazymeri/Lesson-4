@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Lesson 4</title>
+    
+    </head>
+    <body>
+        <a href ="https://shkolladigjitale.com/" target="_blank"><img src  ="logo.png" alt="Logo" ></a>
+        <a href ="mailto:info@digitalschool.com">sendemail</a>
+        <a href ="tel:+383123456">+383123456</a>
+
+    </body>
+    </html>
